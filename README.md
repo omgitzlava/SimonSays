@@ -1,5 +1,5 @@
 # Gabríel Alexandersson
-[Tengil á myndbandi](https://youtu.be/phUZz92FJ6o)
+[Tengil á myndbandi](https://youtu.be/phUZz92FJ6o) <br>
 [Simon says kóði](https://github.com/omgitzlava/SimonSays/blob/main/code.ino)
 
 
